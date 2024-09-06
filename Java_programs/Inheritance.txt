@@ -1,0 +1,60 @@
+Multiple inheritance 
+---------------------------
+
+when there is two pparents to asingle child class
+
+a confusio arise when the chiild calss calls the methods of the parrent classes , to finfd the parent class to extends
+
+multiple inheritance canot be athived 
+
+to achive this we use interface , to atchive the multiple inheritance .
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Multilevel inheritance 
+-----------------------
+
+A sequencial inheritance of the classes is known as the multilevel inheritance .
+
+                                  class 1
+                                     |
+                                     |
+                                  class 2
+                                    |
+                                    |
+                                  class 3
+
+_____________________________________________________________________________________________________________________________________
+
+heirarical inheritance:
+
+
+                 multiple classes inherits a single class 
+
+                                parrent class
+                                       |
+                                       |
+                                       |
+                            _____________________________
+                            |           |                |
+                            |           |                |
+                            |           |                |
+                            child1    child2            child3
+
+
+all of the child classes will inherit the properties of the paret class
+
+_____________________________________________________________________________________________________________________________________
+
+
+
+Hybrid inheritance 
+
+  The combination of two or more  inheritance 
+                            
+
+
+
+                        
+
+

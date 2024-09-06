@@ -1,0 +1,3 @@
+Abstraction : 
+
+object canot be created for an ABSTRACT class

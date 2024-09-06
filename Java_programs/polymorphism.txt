@@ -1,0 +1,26 @@
+polymorphism:
+
+Executing methods in more than one forms or taking more than one forms or completing one task in different ways .
+
+poly --- many
+morphism--forms
+
+
+types of polymorphism
+======================
+
+method overloading(compile time polymorphism / stack binding / static poly)
+============================================================================
+
+with the same method name you will craete multiple methods and the  methods differ based on the arguments and the argumentsand the arguments are different datatype ,
+datatype count and datatype order.
+
+same class 
+
+
+
+===========================================================================================================================================
+
+
+
+

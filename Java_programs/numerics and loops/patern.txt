@@ -1,0 +1,20 @@
+patern program .
+
+=========================================================================================================
+
+Scanner : It is a class used to get the input from the users at run time .
+
+scanner methods :
+
+byte -- nextByte()
+short -- nextShort()
+int -- nextInt()
+long -- nextLong()
+.
+.
+.
+.
+.
+
+String - next()
+string - nextLine()
